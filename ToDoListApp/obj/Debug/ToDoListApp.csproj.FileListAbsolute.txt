@@ -1,0 +1,10 @@
+C:\Users\bolij\source\repos\ToDoListApp\ToDoListApp\bin\Debug\ToDoListApp.exe.config
+C:\Users\bolij\source\repos\ToDoListApp\ToDoListApp\bin\Debug\ToDoListApp.exe
+C:\Users\bolij\source\repos\ToDoListApp\ToDoListApp\bin\Debug\ToDoListApp.pdb
+C:\Users\bolij\source\repos\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.csproj.AssemblyReference.cache
+C:\Users\bolij\source\repos\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.ToDoList.resources
+C:\Users\bolij\source\repos\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.Properties.Resources.resources
+C:\Users\bolij\source\repos\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.csproj.GenerateResource.cache
+C:\Users\bolij\source\repos\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.csproj.CoreCompileInputs.cache
+C:\Users\bolij\source\repos\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.exe
+C:\Users\bolij\source\repos\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.pdb
